@@ -12,3 +12,5 @@
 :diamond_shape_with_a_dot_inside:	Eager to join the tech sector to work toward great equity and access.
 
 [![Meagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
