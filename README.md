@@ -1,6 +1,5 @@
 # Welcome to my gitHub Page!
 
-
 ## About Me:
 :diamond_shape_with_a_dot_inside:	Studying to become a software engineer after a ten-year career in higher education. 
 <br>
