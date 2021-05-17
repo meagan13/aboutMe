@@ -9,7 +9,7 @@
 
 <br>
 
-## Languages and Skills
+## Languages and Skills:
 
 ## GitHub Stats
 
