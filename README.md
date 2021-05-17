@@ -1,4 +1,4 @@
-# Welcome to my gitHub Page!
+# Welcome to my GitHub Page!
 
 ## About Me:
 :diamond_shape_with_a_dot_inside:	Studying to become a software engineer after a ten-year career in higher education. 
@@ -10,6 +10,14 @@
 <br>
 
 ## Languages and Skills:
+* JavaScript
+* Python
+* Ajax
+* CSS
+* Express
+* Redux
+
+<br>
 
 ## GitHub Stats
 
