@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to my gitHub Page
+> “I would like to be remembered as someone who was not afraid to do what she wanted to do, and as someone who took risks along the way in order to achieve her goals.” - Sally Ride, Physicist, NASA Communicator and Astronaut
+> 
 
-You can use the [editor on GitHub](https://github.com/meagan13/aboutMe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://www.linkedin.com/in/meaganhsmith/"><img src="https://lh3.googleusercontent.com/bohRXNid1ox_tofeglePNgzL7-hnYTDvVvuaLLXHxGxFqFg97iyAlesmRaBBYcn7EBKLY7OVzSM2rr7vhYwjK7zz9pj1EHokEt-t8AJFL5ZW0aQMdDI5QvSdXSyH1H-qbFd6vQ-x8A=w2400" alt="LinkedIn icon" height="50" /></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meagan13/aboutMe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Meagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13)](https://github.com/anuraghazra/github-readme-stats)
